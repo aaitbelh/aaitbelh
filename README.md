@@ -2,4 +2,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaitbelh&show_icons=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aaitbelh)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aaitbelh)](https://github.com/aaitbelh/github-readme-stats)
