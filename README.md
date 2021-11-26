@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aaitbelh
-- 👀 I’m interested in programming 
+- 👀 I’m interested a programming 
 - 🌱 I’m currently learning and studying on 1337
 - 💞️ I’m looking to collaborate on a big project
 - 📫 How to reach me ...
