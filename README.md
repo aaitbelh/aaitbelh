@@ -1,4 +1,8 @@
-# HI my full name is ayoub aitbelhaj iam 18 years old
+-  Hi, I’m @ayoub aitbelhaj
+-  I’m interested in programming 
+-  I’m currently learning C and shell 
+- 💞️ I’m looking to collaborate on big project
+-  How to reach me ..[instargram] (https://www.instagram.com/ayoub_aitbelhaj/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaitbelh&show_icons=true)
 
