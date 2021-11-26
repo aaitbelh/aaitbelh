@@ -1,7 +1,7 @@
 -  Hi, I’m @ayoub aitbelhaj
 -  I’m interested in programming 
 -  I’m currently learning C and shell 
-- 💞️ I’m looking to collaborate on big project
+- 💞️ I’m looking to collaborate on big project in the future
 -  How to reach me [instagram]:ayoub_aitbelhaj
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaitbelh&show_icons=true)
