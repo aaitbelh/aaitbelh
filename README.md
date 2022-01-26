@@ -4,7 +4,7 @@
 💻  I am currently studying programming at 42
 
 
-<img align="right" src=media/linux.gif style="object-fit: cover; height: 210px; float: right">
+<img align="right" src=media/linux.gif style="object-fit: cover; height: 80px; float: right">
 
 ## GitHub Stats
 
