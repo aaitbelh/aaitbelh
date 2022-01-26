@@ -14,5 +14,5 @@
 ## Most used languages (github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaitbelh&langs_count=8)](https://github.com/aaitbelh/github-readme-stats)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=aaitbelh.aaitbelh)
 
