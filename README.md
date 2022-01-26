@@ -4,6 +4,7 @@
 💻  I am currently studying programming at 42
 
 <img align="right" src=media/linux.gif style="object-fit: cover; height: 210px; float: right">
+
 ## GitHub Stats
 
 ![aaitbelh's 42 stats](https://badge42.herokuapp.com/api/stats/aaitbelh?darkmode=true&cursus=42cursus)
