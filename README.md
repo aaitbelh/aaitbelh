@@ -8,7 +8,7 @@
 
 ## GitHub Stats
 
-![aaitbelh's 42 stats](https://badge42.herokuapp.com/api/stats/aaitbelh?darkmode=true&cursus=42cursus)
+<!-- ![aaitbelh's 42 stats](https://badge42.herokuapp.com/api/stats/aaitbelh?darkmode=true&cursus=42cursus) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaitbelh&show_icons=true) 
 ## Most used languages (github)
