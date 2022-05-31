@@ -16,4 +16,6 @@
 ## Most used languages (github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaitbelh&langs_count=8)](https://github.com/aaitbelh/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaitbelh&theme=buefy-dark)](https://git.io/streak-stats)
+
 
