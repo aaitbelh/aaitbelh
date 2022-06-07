@@ -8,7 +8,7 @@
 ## GitHub Stats
 
 
-[![aaitbelh's 42 stats](https://badge42.vercel.app/api/v2/cl3u529dl000609lc9u7tgkrw/stats?cursusId=21&coalitionId=79)](https://github.com/JaeSeoKim/badge42)
+[![aaitbelh's 42 stats](https://badge.mediaplus.ma/binary/aaitbelh)](https://github.com/oakoudad/badge42)
 
 <!-- ![aaitbelh's 42 stats](https://badge42.herokuapp.com/api/stats/aaitbelh?darkmode=true&cursus=42cursus) -->
 
