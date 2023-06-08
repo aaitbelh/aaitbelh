@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ayoub aitbelhaj</h1>
 <h3>A passionate software enginer pation at LEETCODE(1337.ma)</h3>
 
-![coding-helloworld](https://github.com/aaitbelh/aaitbelh/assets/94859813/dcaac51f-f3c8-4760-bfa5-e4cf4154e7cb)
+![casper](https://github.com/aaitbelh/aaitbelh/assets/94859813/a8724a87-2bee-4d4e-a043-59fffa426e8f)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaitbelh" alt="aaitbelh" /></a> </p>
 
