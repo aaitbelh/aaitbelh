@@ -40,5 +40,6 @@ The rest of my repositories are 42 school exercises, kept for reference.
 
 ## Contact
 
+- Portfolio: [aaitbelh.github.io](https://aaitbelh.github.io)
 - Email: aitbelhajayoub566@gmail.com
 - LinkedIn: [aitbelhaj-ayoub](https://www.linkedin.com/in/aitbelhaj-ayoub-799515241)
