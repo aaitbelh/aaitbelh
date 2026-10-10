@@ -2,7 +2,7 @@
 
 **DevOps / Platform Engineer** · Ben Guerir, Morocco · open to relocation across Europe and to remote roles
 
-I run the delivery and runtime platform for a production application at **Startgate (UM6P)**: CI/CD with security gates, containers on Kubernetes, a hardened TLS edge, object storage, and everything provisioned as code. My systems background comes from **1337 (42 Network)**, where I built clusters, cloud deployments and low-level security tooling from scratch.
+I run the delivery and runtime platform for a production web application: CI/CD with security gates, containers on Kubernetes, a hardened TLS edge, object storage, and everything provisioned as code. My systems background comes from **1337 (42 Network)**, where I built clusters, cloud deployments and low-level security tooling from scratch.
 
 ## What I work with
 
@@ -15,13 +15,13 @@ I run the delivery and runtime platform for a production application at **Startg
 | Data and storage | PostgreSQL, Redis / BullMQ, S3-compatible storage (SeaweedFS, MinIO) |
 | Languages | Python, Bash, TypeScript, C, C++, SQL |
 
-## What I do at Startgate (Aug 2025 to present)
+## What I do in my current role (since Aug 2025)
 
 - Built and own the delivery pipeline: tests, SonarQube quality gates and Trivy image and dependency scans on every change, then promotion through test, staging and production.
 - Run the platform (Next.js, Prisma, PostgreSQL, Redis workers) as Docker microservices on a K3s cluster, including deployments, rollbacks and environment configuration.
 - Hardened the production edge with Nginx, automated TLS, rate limiting and security headers.
 - Operate S3-compatible storage and debugged a firewall-related upload failure across the network, storage and application layers.
-- Supervise interns in the Forge program: onboarding, code review, runbooks.
+- Supervise interns: onboarding, code review, runbooks.
 
 The production code is private. The repositories below are public work that shows the same practices.
 
