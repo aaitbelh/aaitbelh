@@ -1,32 +1,44 @@
-<h1 align="center">Hi 👋, I'm ayoub aitbelhaj</h1>
-<h3>A passionate software enginer pation at LEETCODE(1337.ma)</h3>
+# Ayoub Ait Belhaj
 
-![casper](https://github.com/aaitbelh/aaitbelh/assets/94859813/a8724a87-2bee-4d4e-a043-59fffa426e8f)
+**DevOps / Platform Engineer** · Ben Guerir, Morocco · open to relocation across Europe and to remote roles
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaitbelh" alt="aaitbelh" /></a> </p>
+I run the delivery and runtime platform for a production application at **Startgate (UM6P)**: CI/CD with security gates, containers on Kubernetes, a hardened TLS edge, object storage, and everything provisioned as code. My systems background comes from **1337 (42 Network)**, where I built clusters, cloud deployments and low-level security tooling from scratch.
 
-<p align="left"> <a href="https://twitter.com/aitbelhajayoub_" target="blank"><img src="https://img.shields.io/twitter/follow/aitbelhajayoub_?logo=twitter&style=for-the-badge" alt="aitbelhajayoub_" /></a> </p>
+## What I work with
 
-- 🌱 I’m currently learning **javascript, swift, angular, kubernetes**
+| Area | Tools |
+|---|---|
+| CI/CD and quality | GitHub Actions, Jenkins, SonarQube, Trivy, automated tests, performance gates |
+| Containers and orchestration | Docker, Podman, Kubernetes (K3s, K3d), Helm, Argo CD, Vagrant |
+| Infrastructure as code and cloud | Terraform, Ansible, Azure, AWS, Linux administration |
+| Edge and security | Nginx reverse proxy, Let's Encrypt / Certbot, rate limiting, security headers, binary auditing |
+| Data and storage | PostgreSQL, Redis / BullMQ, S3-compatible storage (SeaweedFS, MinIO) |
+| Languages | Python, Bash, TypeScript, C, C++, SQL |
 
-- 💬 Ask me about **c, c++, linuxOS, bash, IT**
+## What I do at Startgate (Aug 2025 to present)
 
-- 📫 How to reach me **aitbelhajayoub566@gmail.com**
+- Built and own the delivery pipeline: tests, SonarQube quality gates and Trivy image and dependency scans on every change, then promotion through test, staging and production.
+- Run the platform (Next.js, Prisma, PostgreSQL, Redis workers) as Docker microservices on a K3s cluster, including deployments, rollbacks and environment configuration.
+- Hardened the production edge with Nginx, automated TLS, rate limiting and security headers.
+- Operate S3-compatible storage and debugged a firewall-related upload failure across the network, storage and application layers.
+- Supervise interns in the Forge program: onboarding, code review, runbooks.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aitbelhajayoub_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aitbelhajayoub_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aitbelhaj-ayoub-799515241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aitbelhaj-ayoub-799515241" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aitbelhaj ayoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aitbelhaj ayoub" height="30" width="40" /></a>
-<a href="https://instagram.com/ayoub_aitbelhaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayoub_aitbelhaj" height="30" width="40" /></a>
-<a href="https://discord.gg/CASPER ⚡#2842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CASPER ⚡#2842" height="30" width="40" /></a>
-</p>
+The production code is private. The repositories below are public work that shows the same practices.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Featured projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaitbelh&show_icons=true&locale=en&layout=compact" alt="aaitbelh" /></p>
+| Project | What it shows |
+|---|---|
+| [**Inception-of-Things**](https://github.com/aaitbelh/Inception-of-things-Devops-) | K3s clusters with Vagrant, host-based ingress routing, and a GitOps flow with Argo CD. Also a self-hosted GitLab via Helm. |
+| [**cloud-1 on Azure**](https://github.com/aaitbelh/Wordpress_Azure-Cloud-1-) | Terraform builds the Azure network and VM, then Ansible installs Docker and brings up a WordPress stack. |
+| [**BADASS (BGP at the Doors of Autonomous Systems)**](https://github.com/aaitbelh/Bgp-At-Doors-of-Autonomous-Systems-is-Simple) | Network emulation with GNS3 and Docker. I implemented the VXLAN part: static and dynamic overlays and traffic encapsulation. |
+| [**Minishell**](https://github.com/aaitbelh/Minishell) | A Unix shell in C: parsing, pipes, redirections, signals. |
+| [**WebServe**](https://github.com/aaitbelh/WebServe) | An HTTP server in C++. |
+| [**philosophers**](https://github.com/aaitbelh/philosophers) | Concurrency and synchronisation in C. |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaitbelh&show_icons=true&locale=en" alt="aaitbelh" /></p>
+The rest of my repositories are 42 school exercises, kept for reference.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaitbelh&" alt="aaitbelh" /></p>
+## Contact
+
+- Email: aitbelhajayoub566@gmail.com
+- LinkedIn: [aitbelhaj-ayoub](https://www.linkedin.com/in/aitbelhaj-ayoub-799515241)
