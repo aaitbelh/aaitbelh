@@ -1,45 +1,65 @@
-# Ayoub Ait Belhaj
+<div align="center">
 
-**DevOps / Platform Engineer** · Ben Guerir, Morocco · open to relocation across Europe and to remote roles
+<img src="assets/hero.svg" alt="Terminal animation: whoami, cat role.txt, status.sh. Ayoub Ait Belhaj, DevOps and Platform Engineer. Pipelines green, cluster healthy, open to new opportunities." width="100%">
 
-I run the delivery and runtime platform for a production web application: CI/CD with security gates, containers on Kubernetes, a hardened TLS edge, object storage, and everything provisioned as code. My systems background comes from **1337 (42 Network)**, where I built clusters, cloud deployments and low-level security tooling from scratch.
+<br>
 
-## What I work with
+<a href="https://aaitbelh.github.io"><img src="assets/btn-portfolio.svg" alt="Open portfolio" height="44"></a>
+<a href="https://www.linkedin.com/in/aitbelhaj-ayoub-799515241"><img src="assets/btn-linkedin.svg" alt="Open LinkedIn" height="44"></a>
+<a href="mailto:aitbelhajayoub566@gmail.com"><img src="assets/btn-email.svg" alt="Send an email" height="44"></a>
 
-| Area | Tools |
-|---|---|
-| CI/CD and quality | GitHub Actions, Jenkins, SonarQube, Trivy, automated tests, performance gates |
-| Containers and orchestration | Docker, Podman, Kubernetes (K3s, K3d), Helm, Argo CD, Vagrant |
-| Infrastructure as code and cloud | Terraform, Ansible, Azure, AWS, Linux administration |
-| Edge and security | Nginx reverse proxy, Let's Encrypt / Certbot, rate limiting, security headers, binary auditing |
-| Data and storage | PostgreSQL, Redis / BullMQ, S3-compatible storage (SeaweedFS, MinIO) |
-| Languages | Python, Bash, TypeScript, C, C++, SQL |
+<img src="assets/divider.svg" alt="" width="100%">
 
-## What I do in my current role (since Aug 2025)
+</div>
 
-- Built and own the delivery pipeline: tests, SonarQube quality gates and Trivy image and dependency scans on every change, then promotion through test, staging and production.
-- Run the platform (Next.js, Prisma, PostgreSQL, Redis workers) as Docker microservices on a K3s cluster, including deployments, rollbacks and environment configuration.
-- Hardened the production edge with Nginx, automated TLS, rate limiting and security headers.
-- Operate S3-compatible storage and debugged a firewall-related upload failure across the network, storage and application layers.
-- Supervise interns: onboarding, code review, runbooks.
+I run the delivery and runtime platform for a production web application: CI/CD with security gates, containers on Kubernetes, a hardened TLS edge, object storage, and everything provisioned as code. My systems background comes from **1337 (42 Network)**, where I built clusters, cloud deployments and low-level security tooling from scratch. Based in Morocco, open to relocation and remote roles.
 
-The production code is private. The repositories below are public work that shows the same practices.
+<div align="center">
 
-## Featured projects
+## ⚙️ How I ship
 
-| Project | What it shows |
-|---|---|
-| [**Inception-of-Things**](https://github.com/aaitbelh/Inception-of-things-Devops-) | K3s clusters with Vagrant, host-based ingress routing, and a GitOps flow with Argo CD. Also a self-hosted GitLab via Helm. |
-| [**cloud-1 on Azure**](https://github.com/aaitbelh/Wordpress_Azure-Cloud-1-) | Terraform builds the Azure network and VM, then Ansible installs Docker and brings up a WordPress stack. |
-| [**BADASS (BGP at the Doors of Autonomous Systems)**](https://github.com/aaitbelh/Bgp-At-Doors-of-Autonomous-Systems-is-Simple) | Network emulation with GNS3 and Docker. I implemented the VXLAN part: static and dynamic overlays and traffic encapsulation. |
-| [**Minishell**](https://github.com/aaitbelh/Minishell) | A Unix shell in C: parsing, pipes, redirections, signals. |
-| [**WebServe**](https://github.com/aaitbelh/WebServe) | An HTTP server in C++. |
-| [**philosophers**](https://github.com/aaitbelh/philosophers) | Concurrency and synchronisation in C. |
+<img src="assets/pipeline.svg" alt="Animated pipeline: commit, test, quality gate, security scan, staging, production. Each stage runs and passes in turn." width="100%">
 
-The rest of my repositories are 42 school exercises, kept for reference.
+<sub>Every change passes tests, a SonarQube quality gate and a Trivy scan before staged promotion.</sub>
 
-## Contact
+<img src="assets/divider.svg" alt="" width="100%">
 
-- Portfolio: [aaitbelh.github.io](https://aaitbelh.github.io)
-- Email: aitbelhajayoub566@gmail.com
-- LinkedIn: [aitbelhaj-ayoub](https://www.linkedin.com/in/aitbelhaj-ayoub-799515241)
+## 🧰 Toolbox
+
+<img src="assets/skills.svg" alt="Skills: CI/CD and quality, containers, infrastructure as code and cloud, edge and security, data and storage, languages." width="100%">
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td><a href="https://github.com/aaitbelh/Inception-of-things-Devops-"><img src="assets/card-iot.svg" alt="Inception-of-Things: Kubernetes and GitOps with K3s, Vagrant and Argo CD" width="440"></a></td>
+    <td><a href="https://github.com/aaitbelh/Wordpress_Azure-Cloud-1-"><img src="assets/card-cloud1.svg" alt="cloud-1 on Azure: Terraform and Ansible" width="440"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/aaitbelh/Bgp-At-Doors-of-Autonomous-Systems-is-Simple"><img src="assets/card-badass.svg" alt="BADASS VXLAN lab with GNS3 and Docker" width="440"></a></td>
+    <td><img src="assets/card-binary.svg" alt="Binary exploitation: buffer overflows, format strings and ret2libc" width="440"></td>
+  </tr>
+</table>
+
+</div>
+
+## 🛠️ What I do day to day
+
+- **Delivery pipelines:** GitHub Actions and Jenkins with automated tests, SonarQube quality gates, Trivy image and dependency scans, and promotion through test, staging and production.
+- **Platform:** Next.js, Prisma, PostgreSQL and Redis workers as Docker services on a K3s cluster, with deployments, rollbacks and environment configuration.
+- **Edge and security:** Nginx reverse proxy, automated Let's Encrypt TLS, rate limiting and security headers.
+- **Reliability:** S3-compatible storage (SeaweedFS, MinIO) and tracing faults across the network, storage and application layers.
+- **Infrastructure as code:** Terraform and Ansible so staging and production stay reproducible.
+- **Team:** supervising interns, code review, runbooks and documentation.
+
+The production code is private. The projects above are public work that shows the same practices. More at **[aaitbelh.github.io](https://aaitbelh.github.io)**.
+
+<div align="center">
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+<sub>Reach me at <a href="mailto:aitbelhajayoub566@gmail.com">aitbelhajayoub566@gmail.com</a></sub>
+
+</div>

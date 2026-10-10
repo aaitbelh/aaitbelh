@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="44" viewBox="0 0 190 44" role="img" aria-label="$ open portfolio">
+  <rect x="1" y="1" width="188" height="42" rx="11" fill="#0c1118" stroke="#1c2633"><animate attributeName="stroke" values="#1c2633;#3ddc97;#1c2633" dur="3.6s" repeatCount="indefinite"/></rect>
+  <text x="95.0" y="27.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#3ddc97">$ open portfolio</text>
+</svg>
