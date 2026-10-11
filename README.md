@@ -2,6 +2,10 @@
 
 <img src="assets/banner.svg" alt="Ayoub Ait Belhaj, DevOps and Platform Engineer" width="100%">
 
+<br>
+
+<img src="assets/ascii.svg" alt="ASCII art of an anime character with dark hair looking over her shoulder in front of a computer monitor showing a Python script" width="720">
+
 </div>
 
 I build and run CI/CD pipelines, Kubernetes platforms and secure infrastructure as code. I own a production web platform end to end, and I trained as a systems engineer at **1337 (42 Network)**. Based in Morocco, open to relocation and remote roles.
