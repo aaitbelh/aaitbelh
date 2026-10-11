@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="assets/ascii.svg" alt="ASCII art of an anime character with dark hair looking over her shoulder in front of a computer monitor showing a Python script" width="560">
+<img src="assets/ascii-bw.svg" alt="ASCII art of an anime character with dark hair looking over her shoulder in front of a computer monitor showing a Python script" width="560">
 
 </div>
 
